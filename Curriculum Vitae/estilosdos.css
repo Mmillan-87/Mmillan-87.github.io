@@ -1,0 +1,46 @@
+
+* {
+    font-family: cursive;
+    
+}
+
+
+header {
+    background-color:skyblue;
+    padding: 10px;
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    border: solid black;
+    max-width: 100%; 
+    font-weight: bold;
+  }
+
+div {
+    float: left;
+    border: solid black; 
+    text-align: left;
+    max-width: 30%;
+}
+
+
+article {
+    float: left;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    max-width: 68%;
+}
+
+
+* button {
+    background-color: skyblue;
+    font-size: 20px;
+    border-radius: 2px;
+
+}
+
+img {
+    border-radius: 50%;
+}
